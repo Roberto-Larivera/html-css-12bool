@@ -1,0 +1,27 @@
+.box{
+    background-color:#006CFA;
+    width: 100%;
+    min-height: 40px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.box-maxi{
+    background-color:#006CFA;
+    width: 100%;
+    min-height: 80px;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.box-nested{
+    background-color:#00E164;
+    width: 100%;
+    border: 1px solid #006CFA;
+
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: 0.6rem;
+}
