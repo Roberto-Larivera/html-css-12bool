@@ -4,3 +4,8 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+:root{
+    --box: calc(1170px / 72);
+}

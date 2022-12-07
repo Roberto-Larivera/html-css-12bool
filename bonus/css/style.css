@@ -30,12 +30,14 @@ section{
 }
 
 .flex-center{
-    display: flex;
-    align-items: center;
+    /* display: flex;
+    align-items: center; */
+    align-self: center;
 }
 .flex-end{
-    display: flex;
-    align-items: flex-end;
+    /* display: flex;
+    align-items: flex-end; */
+    align-self: flex-end;
 }
 .flex-around{
     justify-content: space-around;

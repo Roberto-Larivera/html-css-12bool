@@ -1,0 +1,12 @@
+.box-pink{
+    background-color: #E35B8E;
+    animation-name: heart;
+    animation-duration:3s;   
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+@keyframes heart {
+    0% {background-color: #E35B8E;}
+    50% {background-color: red;}
+    100% {background-color: #E35B8E;}
+  }
